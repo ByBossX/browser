@@ -55,14 +55,14 @@ Baten Kaitos Ⅰ-Ⅱ HD Remaster|0100F28018CA4000|1.0.3|https://archive.org/down
 Batman Arkham Asylum|0100E870163CA000|?|https://archive.org/download/YamaNX_Sertay/Batman%20Arkham%20Asylum%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Batman The Telltale Series|0100011005D92000|1.0.4|https://archive.org/download/YamaNX_Sertay/Batman%20The%20Telltale%20Series%20-%20V1.0.4.zip|YAMATR - Portlayan:Falmalik ve Wave
 Bayonetta|010076F0049A2000|1.1|https://archive.org/download/YamaNX_Sertay/Bayonetta%20-%20V1.1.zip|Swatalk
-Bayonetta 3|01004A4010FEA000|?|https://archive.org/download/YamaNX_Sertay/Bayonetta%203%20-%20T%C3%BCrk%C3%A7e%20yama.zip|?
+Bayonetta 3|01004A4010FEA000|1.2.0|https://archive.org/download/YamaNX_Sertay/Bayonetta%203%20-%20T%C3%BCrk%C3%A7e%20yama.zip|Profesör Pikachu
 Beacon Pines|0100D3C017780000|2.0.0|https://archive.org/download/YamaNX_Sertay/Beacon%20Pines%20-%20V2.0.0.zip|Swatalk
 Beast Quest|01001EB00E9FE000|1.02|https://archive.org/download/YamaNX_Sertay/Beast%20Quest%20-%20V1.02.zip|Swatalk
 Bee Simulator The Hive|010096E021020000|1.1|https://archive.org/download/YamaNX_Sertay/Bee%20Simulator%20The%20Hive%20-%20V1.1%20ve%201%20DLC.zip|Swatalk
 Behind the Frame - The Finest Scenery|0100B7801693A000|2.0.6|https://archive.org/download/YamaNX_Sertay/Behind%20the%20Frame%20-%20The%20Finest%20Scenery%20-%20V2.0.6.zip|Swatalk
 Ben 10|01006E1004404000|?|https://archive.org/download/YamaNX_Sertay/Ben%2010%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Bendy Lone Wolf|010071B022A36000|1.1.0-00|https://archive.org/download/YamaNX_Sertay/Bendy%20Lone%20Wolf%20-%20V1.1.0-00.zip|Swatalk
-Beyond Good and Evil|0100E0A01DD20000|?|https://archive.org/download/YamaNX_Sertay/Beyond%20Good%20and%20Evil%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Beyond Good and Evil|0100E0A01DD20000|1.0.1|https://archive.org/download/YamaNX_Sertay/Beyond%20Good%20and%20Evil%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Dede00
 Beyond the Ice Palace II|010023E01D94E000|1.0.4|https://archive.org/download/YamaNX_Sertay/Beyond%20the%20Ice%20Palace%20II%20-%20V1.0.4.zip|Swatalk
 Big Helmet Heroes|010044B01E786000|1.0.3|https://archive.org/download/YamaNX_Sertay/Big%20Helmet%20Heroes%20-%20V1.0.3.zip|Swatalk
 Big Hops|0100C14016F6C000|1.0.3|https://archive.org/download/YamaNX_Sertay/Big%20Hops%20-%20V1.0.3.zip|Swatalk
@@ -97,7 +97,7 @@ Call of Juarez Gunslinger|0100B4700BFC6000|?|https://archive.org/download/YamaNX
 Call of the Sea|010091102424A000|1.0.0|https://archive.org/download/YamaNX_Sertay/Call%20of%20the%20Sea%20-%20V1.0.0.zip|Swatalk
 Candle|0100E4600B166000|?|https://archive.org/download/YamaNX_Sertay/Candle%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Captain Toad Treasure Tracker|01009BF0072D4000|1.3.0|https://archive.org/download/YamaNX_Sertay/Captain%20Toad%20Treasure%20Tracker%20-%20V1.3.0%20ve%202%20DLCs.zip|Swatalk
-Captain Tsubasa Rise of New Champions|0100CCA00DAE6000|?|https://archive.org/download/YamaNX_Sertay/Captain%20Tsubasa%20Rise%20of%20New%20Champions%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+Captain Tsubasa Rise of New Champions|0100CCA00DAE6000|1.43|https://archive.org/download/YamaNX_Sertay/Captain%20Tsubasa%20Rise%20of%20New%20Champions%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Swatalk Port:multimesut
 Caravan SandWitch|0100D5801E904000|1.0.5|https://archive.org/download/YamaNX_Sertay/Caravan%20SandWitch%20-%20V1.0.5.zip|Swatalk
 Carrion|0100B1600E9AE000|?|https://archive.org/download/YamaNX_Sertay/Carrion%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Carto|0100810012A1A000|1.0.4|https://archive.org/download/YamaNX_Sertay/Carto%20-%20V1.0.4.zip|Swatalk
@@ -116,7 +116,7 @@ Chronos Before the Ashes|010076B01196C000|?|https://archive.org/download/YamaNX_
 Cities Skylines|0100D8800B87C000|1.0.3.37670|https://archive.org/download/YamaNX_Sertay/Cities%20Skylines%20-%20V1.0.3.37670.zip|Swatalk
 Close to the Sun|0100B7200DAC6000|?|https://archive.org/download/YamaNX_Sertay/Close%20to%20the%20Sun%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Coffin Dodgers|0100178009648000|?|https://archive.org/download/YamaNX_Sertay/Coffin%20Dodgers%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
-Contra Operation Galuga|010025101A9EA000|?|https://archive.org/download/YamaNX_Sertay/Contra%20Operation%20Galuga%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+Contra Operation Galuga|010025101A9EA000|1.0.876634|https://archive.org/download/YamaNX_Sertay/Contra%20Operation%20Galuga%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Profesör Pikachu ve Hades
 Core Keeper|010070201D1BA000|1.1.2.4|https://archive.org/download/YamaNX_Sertay/Core%20Keeper%20-%20V1.1.2.4.zip|Swatalk
 Crash Bandicoot 4 It's About Time|010073401175E000|1.2|https://archive.org/download/YamaNX_Sertay/Crash%20Bandicoot%204%20It%27s%20About%20Time%20-%20V1.2%20ve%202%20DLCs.zip|Swatalk
 Crisis Core -Final Fantasy VII - Reunion|01004BC0166CC000|?|https://archive.org/download/YamaNX_Sertay/Crisis%20Core%20-Final%20Fantasy%20VII%20-%20Reunion%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|beroos - Portlayan:Soner Çakır
@@ -154,8 +154,8 @@ DNF Duel|0100380017D3E000|1.8.1|https://archive.org/download/YamaNX_Sertay/DNF%2
 Dog Man Mission Impawsible|0100D90020486000|1.0.5|https://archive.org/download/YamaNX_Sertay/Dog%20Man%20Mission%20Impawsible%20-%20V1.0.5.zip|Swatalk
 Doki Doki Literature Club Plus|010086901543E000|0.1.3278538|https://archive.org/download/YamaNX_Sertay/Doki%20Doki%20Literature%20Club%20Plus%20-%20V0.1.3278538.zip|Swatalk
 Donkey Kong Country Tropical Freeze|0100C1F0051B6000|1.0.2|https://archive.org/download/YamaNX_Sertay/Donkey%20Kong%20Country%20Tropical%20Freeze%20-%20V1.0.2.zip|Swatalk
-Dont Starve|0100751007ADA000|?|https://archive.org/download/YamaNX_Sertay/Dont%20Starve%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
-DOOM 3|010029D00E740000|?|https://archive.org/download/YamaNX_Sertay/DOOM%203%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Dont Starve|0100751007ADA000|1.0|https://archive.org/download/YamaNX_Sertay/Dont%20Starve%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Davetsiz57
+DOOM 3|010029D00E740000|1.0.5|https://archive.org/download/YamaNX_Sertay/DOOM%203%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Davetsiz57
 Doom (2016)|0100416004C00000|?|https://archive.org/download/YamaNX_Sertay/Doom%20%282016%29%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Doom 64|01005D700E742000|?|https://archive.org/download/YamaNX_Sertay/Doom%2064%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Dordogne|01009D001688C000|1.0.0.4|https://archive.org/download/YamaNX_Sertay/Dordogne%20-%20V1.0.0.4.zip|Swatalk
@@ -165,7 +165,7 @@ DRAGON QUEST III HD-2D Remake|01003E601E324000|1.1.0|https://archive.org/downloa
 DRAGON QUEST TREASURES|0100217014266000|1.0.1|https://archive.org/download/YamaNX_Sertay/DRAGON%20QUEST%20TREASURES%20-%20V1.0.1%20ve%203%20DLCs.zip|Swatalk
 DRAGON QUEST VII Reimagined|0100A9D01C446000|1.1.0|https://archive.org/download/YamaNX_Sertay/DRAGON%20QUEST%20VII%20Reimagined%20-%20V1.1.0%20ve%206%20DLCs.zip|Swatalk
 Dreamscaper|010066C00FA94000|1.1.1.5b|https://archive.org/download/YamaNX_Sertay/Dreamscaper%20-%20V1.1.1.5b.zip|Swatalk
-Dredge|01008CD0172D6000|?|https://archive.org/download/YamaNX_Sertay/Dredge%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+Dredge|01008CD0172D6000|1.5.3|https://archive.org/download/YamaNX_Sertay/Dredge%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Swatalk Port:Turca
 Dros|0100D7A01E0F6000|1.0.2|https://archive.org/download/YamaNX_Sertay/Dros%20-%20V1.0.2%20ve%202%20DLCs.zip|Swatalk
 Drova - Forsaken Kin|0100EF601B038000|1.2.1|https://archive.org/download/YamaNX_Sertay/Drova%20-%20Forsaken%20Kin%20-%20V1.2.1.zip|Swatalk
 Duck Detective The Ghost of Glamping|0100D4702160A000|2.2.5|https://archive.org/download/YamaNX_Sertay/Duck%20Detective%20The%20Ghost%20of%20Glamping%20-%20V2.2.5.zip|Swatalk
@@ -224,7 +224,7 @@ Fuga Melodies of Steel|01000130120EE000|1.1.7|https://archive.org/download/YamaN
 Fuga Melodies of Steel 2|01003F501907A000|1.5.1|https://archive.org/download/YamaNX_Sertay/Fuga%20Melodies%20of%20Steel%202%20-%20V1.5.1%20ve%205%20DLCs.zip|Swatalk
 Fuga Melodies of Steel 3|0100C6D0205D6000|1.0.0|https://archive.org/download/YamaNX_Sertay/Fuga%20Melodies%20of%20Steel%203%20-%20V1.0.0.zip|Swatalk
 Garden Witch Life|0100B6C01CDA0000|1.0.5|https://archive.org/download/YamaNX_Sertay/Garden%20Witch%20Life%20-%20V1.0.5.zip|Swatalk
-GetsuFumaDen Undying Moon|010042A013DB8000|?|https://archive.org/download/YamaNX_Sertay/GetsuFumaDen%20Undying%20Moon%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+GetsuFumaDen Undying Moon|010042A013DB8000|Base Sürüm|https://archive.org/download/YamaNX_Sertay/GetsuFumaDen%20Undying%20Moon%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Sinnerclown Port:CaptainKid-Tr
 Gex Trilogy|01007CC0228D0000|1.0.0|https://archive.org/download/YamaNX_Sertay/Gex%20Trilogy%20-%20V1.0.0.zip|Swatalk
 Ghost Trick Phantom Detective|010029B018432000|1.0.0|https://archive.org/download/YamaNX_Sertay/Ghost%20Trick%20Phantom%20Detective%20-%20V1.0.0.zip|Swatalk
 Ghosts 'n Goblins Resurrection|0100D6200F2BA000|1.0.3|https://archive.org/download/YamaNX_Sertay/Ghosts%20%27n%20Goblins%20Resurrection%20-%20V1.0.3.zip|Swatalk
@@ -255,7 +255,7 @@ Heave Ho|0100ADD00E17E000|?|https://archive.org/download/YamaNX_Sertay/Heave%20H
 Hellblade Senua's Sacrifice|010044500CF8E000|?|https://archive.org/download/YamaNX_Sertay/Hellblade%20Senua%27s%20Sacrifice%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Hello Kitty and Friends Happiness Parade|0100304019EB6000|1.0.4|https://archive.org/download/YamaNX_Sertay/Hello%20Kitty%20and%20Friends%20Happiness%20Parade%20-%20V1.0.4.zip|Swatalk
 Hello Kitty® Kruisers With Sanrio Friends|010087D0084A8000|1.0.1|https://archive.org/download/YamaNX_Sertay/Hello%20Kitty%C2%AE%20Kruisers%20With%20Sanrio%20Friends%20-%20V1.0.1.zip|Swatalk
-Hellpoint|010024600C794000|?|https://archive.org/download/YamaNX_Sertay/Hellpoint%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+Hellpoint|010024600C794000|Belirtilmemiş|https://archive.org/download/YamaNX_Sertay/Hellpoint%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Freeman1930 Port:emre_007
 Helltaker|054548454C4C0000|?|https://archive.org/download/YamaNX_Sertay/Helltaker%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Hentai vs. Evil|0100267013F04000|?|https://archive.org/download/YamaNX_Sertay/Hentai%20vs.%20Evil%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Heroes of Hammerwatch|0100D2B00BC54000|1.1.0|https://archive.org/download/YamaNX_Sertay/Heroes%20of%20Hammerwatch%20-%20V1.1.0.zip|Swatalk
@@ -302,7 +302,7 @@ Kraino Origins|0100844019F34000|1.0.3|https://archive.org/download/YamaNX_Sertay
 L.A. Noire|0100830004FB6000|?|https://archive.org/download/YamaNX_Sertay/L.A.%20Noire%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 LAPIN|010005D01FFC4000|1.0.3|https://archive.org/download/YamaNX_Sertay/LAPIN%20-%20V1.0.3.zip|Swatalk
 Layers of Fear|0100BF5006A7C000|?|https://archive.org/download/YamaNX_Sertay/Layers%20of%20Fear%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
-LEGO 2K Drive|0100739018020000|?|https://archive.org/download/YamaNX_Sertay/LEGO%202K%20Drive%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+LEGO 2K Drive|0100739018020000|1.14|https://archive.org/download/YamaNX_Sertay/LEGO%202K%20Drive%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|multimesut
 LEGO Star Wars The Skywalker Saga|010042D00D900000|1.10.0|https://archive.org/download/YamaNX_Sertay/LEGO%20Star%20Wars%20The%20Skywalker%20Saga%20-%20V1.10.0%20ve%2017%20DLC.zip|Swatalk
 LEGO® CITY UNDERCOVER|010085500130A000|1.0.3|https://archive.org/download/YamaNX_Sertay/LEGO%C2%AE%20CITY%20UNDERCOVER%20-%20V1.0.3.zip|Swatalk
 LEGO® DC Super-Villains|010070D009FEC000|1.0.8|https://archive.org/download/YamaNX_Sertay/LEGO%C2%AE%20DC%20Super-Villains%20-%20V1.0.8%20ve%2010%20DLC.zip|Swatalk
@@ -319,19 +319,19 @@ Life is Strange|0100DC301186A000|?|https://archive.org/download/YamaNX_Sertay/Li
 Life is Strange True Colors|0100500012AB4000|?|https://archive.org/download/YamaNX_Sertay/Life%20is%20Strange%20True%20Colors%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Lifeless Planet|01005B6008132000|?|https://archive.org/download/YamaNX_Sertay/Lifeless%20Planet%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Like No Other The Legend Of The Twin Books|0100BE7016BA6000|1.2.0|https://archive.org/download/YamaNX_Sertay/Like%20No%20Other%20The%20Legend%20Of%20The%20Twin%20Books%20-%20V1.2.0.zip|Swatalk
-Little Kitty, Big City|01000A4019FA2000|?|https://archive.org/download/YamaNX_Sertay/Little%20Kitty%2C%20Big%20City%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Little Kitty, Big City|01000A4019FA2000|1.24.6.4_3605|https://archive.org/download/YamaNX_Sertay/Little%20Kitty%2C%20Big%20City%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Swatalk
 Little Nightmares 2|010097100EDD6000|?|https://archive.org/download/YamaNX_Sertay/Little%20Nightmares%202%20%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Little Nightmares 3|010066101A55A000|1.0.2|https://archive.org/download/YamaNX_Sertay/Little%20Nightmares%203%20-%20V1.0.2.zip|Swatalk
 Little Nightmares Complete Edition|01002FC00412C000|?|https://archive.org/download/YamaNX_Sertay/Little%20Nightmares%20Complete%20Edition%20%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Little Witch Nobeta|01004DB016962000|1.1.2|https://archive.org/download/YamaNX_Sertay/Little%20Witch%20Nobeta%20-%20V1.1.2.zip|Swatalk
-Live a Live|0100CF801776C000|?|https://archive.org/download/YamaNX_Sertay/Live%20a%20Live%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+Live a Live|0100CF801776C000|1.0.1|https://archive.org/download/YamaNX_Sertay/Live%20a%20Live%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Swatalk Port:Turca
 LOLLIPOP CHAINSAW RePOP|0100DD301A686000|1.09|https://archive.org/download/YamaNX_Sertay/LOLLIPOP%20CHAINSAW%20RePOP%20-%20V1.09.zip|Swatalk
 Look Mum No Computer|0100750025286000|1.0|https://archive.org/download/YamaNX_Sertay/Look%20Mum%20No%20Computer%20-%20V1.0.zip|Swatalk
 Looney Tunes Wacky World of Sports|0100D3601D4B4000|0.1.0.27382|https://archive.org/download/YamaNX_Sertay/Looney%20Tunes%20Wacky%20World%20of%20Sports%20-%20V0.1.0.27382%20ve%202%20DLCs.zip|Swatalk
 Lost In Random™|01005FE01291A000|1.0.1|https://archive.org/download/YamaNX_Sertay/Lost%20In%20Random%E2%84%A2%20-%20V1.0.1.zip|Swatalk
 Lovecraft´s Untold Stories|010041100CE7E000|1.0.7|https://archive.org/download/YamaNX_Sertay/Lovecraft%C2%B4s%20Untold%20Stories%20-%20V1.0.7.zip|Swatalk
-Luigis Mansion 2 HD|010048701995E000|?|https://archive.org/download/YamaNX_Sertay/Luigis%20Mansion%202%20HD%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
-Luigi's Mansion 3|0100DCA0064A6000|?|https://archive.org/download/YamaNX_Sertay/Luigi%27s%20Mansion%203%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Luigis Mansion 2 HD|010048701995E000|1.0.0|https://archive.org/download/YamaNX_Sertay/Luigis%20Mansion%202%20HD%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|atessivas
+Luigi's Mansion 3|0100DCA0064A6000|1.4.0|https://archive.org/download/YamaNX_Sertay/Luigi%27s%20Mansion%203%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Profesör Pikachu
 Lumberhill|010016D0159D6000|1.0.1|https://archive.org/download/YamaNX_Sertay/Lumberhill%20-%20V1.0.1.zip|Swatalk
 Lumote The Mastermote Chronicles|0100AA0012DFA000|1.5.7|https://archive.org/download/YamaNX_Sertay/Lumote%20The%20Mastermote%20Chronicles%20-%20V1.5.7.zip|Swatalk
 Lynked Banner of the Spark|0100711022E24000|1.2.0|https://archive.org/download/YamaNX_Sertay/Lynked%20Banner%20of%20the%20Spark%20-%20V1.2.0.zip|Swatalk
@@ -343,7 +343,7 @@ Mandragora Whispers of the Witch Tree|0100D1202322A000|1.5.4.135908|https://arch
 Mario & Luigi Brothership|01006D0017F7A000|1.0.1|https://archive.org/download/YamaNX_Sertay/Mario%20%26%20Luigi%20Brothership%20-%20V1.0.1.zip|Swatalk
 Mario Kart 8 Deluxe|0100152000022000|3.0.5|https://archive.org/download/YamaNX_Sertay/Mario%20Kart%208%20Deluxe%20-%20V3.0.5%20ve%201%20DLC.zip|Swatalk
 Mario Party Superstars|01006FE013472000|1.1.1|https://archive.org/download/YamaNX_Sertay/Mario%20Party%20Superstars%20-%20V1.1.1.zip|Swatalk
-Mario vs. Donkey Kong|0100B99019412000|?|https://archive.org/download/YamaNX_Sertay/Mario%20vs.%20Donkey%20Kong%20%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+Mario vs. Donkey Kong|0100B99019412000|1.0.1|https://archive.org/download/YamaNX_Sertay/Mario%20vs.%20Donkey%20Kong%20%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Profesör Pikachu
 Mark of the Ninja Remastered|01009A700A538000|1.0.2|https://archive.org/download/YamaNX_Sertay/Mark%20of%20the%20Ninja%20Remastered%20-%20V1.0.2.zip|Swatalk
 Marsupilami Hoobadventure|010074F014628000|1.0.4|https://archive.org/download/YamaNX_Sertay/Marsupilami%20Hoobadventure%20-%20V1.0.4.zip|Swatalk
 MARVEL Cosmic Invasion|010059D020C26000|1.0.3|https://archive.org/download/YamaNX_Sertay/MARVEL%20Cosmic%20Invasion%20-%20V1.0.3.zip|Swatalk
@@ -367,7 +367,7 @@ Morkull Ragast's Rage|0100A1301EECC000|1.0.5|https://archive.org/download/YamaNX
 Morsels|010003301E4DC000|1.0.726|https://archive.org/download/YamaNX_Sertay/Morsels%20-%20V1.0.726.zip|Swatalk
 Mortal Kombat 1|01006560184E6000|1.29.0|https://archive.org/download/YamaNX_Sertay/Mortal%20Kombat%201%20-%20V1.29.0%20ve%201%20DLC.zip|Swatalk
 Mortal Shell Complete Edition|0100154019A7C000|1.2.0|https://archive.org/download/YamaNX_Sertay/Mortal%20Shell%20Complete%20Edition%20-%20V1.2.0.zip|Swatalk
-MotoGP 24|010040401D564000|?|https://archive.org/download/YamaNX_Sertay/MotoGP%2024%20%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+MotoGP 24|010040401D564000|1.0.2|https://archive.org/download/YamaNX_Sertay/MotoGP%2024%20%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Swatalk
 Mr Shifty|010031F002B66000|1.0.3|https://archive.org/download/YamaNX_Sertay/Mr%20Shifty%20-%20V1.0.3.zip|Swatalk
 MudRunner - American Wilds Edition|01009D200952E000|4.5|https://archive.org/download/YamaNX_Sertay/MudRunner%20-%20American%20Wilds%20Edition%20-%20V4.5.zip|Swatalk
 My Friend Pedro|010031200B94C000|?|https://archive.org/download/YamaNX_Sertay/My%20Friend%20Pedro%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
@@ -395,7 +395,7 @@ Octadad Deadlist Catch|0100CAB006F54000|?|https://archive.org/download/YamaNX_Se
 Octopath Traveler|010057D006492000|1.0.5|https://archive.org/download/YamaNX_Sertay/Octopath%20Traveler%20-%20V1.0.5.zip|Swatalk
 Octopath Traveler 0|01005270232F2000|1.0.2|https://archive.org/download/YamaNX_Sertay/Octopath%20Traveler%200%20-%20V1.0.2.zip|Swatalk
 Octopath Traveler II|0100A3501946E000|1.1.1|https://archive.org/download/YamaNX_Sertay/Octopath%20Traveler%20II%20-%20V1.1.1%20ve%201%20DLC.zip|Swatalk
-Oddmar|01001F100FA04000|?|https://archive.org/download/YamaNX_Sertay/Oddmar%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Oddmar|01001F100FA04000|Belirtilmemiş|https://archive.org/download/YamaNX_Sertay/Oddmar%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Emre
 Olija|01004D501230A000|?|https://archive.org/download/YamaNX_Sertay/Olija%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 OlliOlli World|0100C5D01128E000|1.3.1|https://archive.org/download/YamaNX_Sertay/OlliOlli%20World%20-%20V1.3.1%20ve%204%20DLCs.zip|Swatalk
 OMNO|01006400167CA000|1.0.0|https://archive.org/download/YamaNX_Sertay/OMNO%20-%20V1.0.0.zip|Swatalk
@@ -417,7 +417,7 @@ Pascal's Wager Definitive Edition|01009B9017D8E000|2.0.0|https://archive.org/dow
 Peglin|01000A101E9DA000|1.1.24|https://archive.org/download/YamaNX_Sertay/Peglin%20-%20V1.1.24.zip|Swatalk
 Pentiment|010036F01AE9E000|1.3.2|https://archive.org/download/YamaNX_Sertay/Pentiment%20-%20V1.3.2.zip|Swatalk
 Perception|0100563005B70000|?|https://archive.org/download/YamaNX_Sertay/Perception%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
-Persona 5 Royal|01005CA01580E000|?|https://archive.org/download/YamaNX_Sertay/Persona%205%20Royal%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Persona 5 Royal|01005CA01580E000|1.0.2|https://archive.org/download/YamaNX_Sertay/Persona%205%20Royal%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Profesör Pikachu
 Phoenix Wright Ace Attorney Trilogy|0100CB000A142000|1.0.2|https://archive.org/download/YamaNX_Sertay/Phoenix%20Wright%20Ace%20Attorney%20Trilogy%20-%20V1.0.2.zip|Swatalk
 Pikmin 3 Deluxe|0100F4C009322000|1.1.3|https://archive.org/download/YamaNX_Sertay/Pikmin%203%20Deluxe%20-%20V1.1.3.zip|Swatalk
 Pikmin 4|0100B7C00933A000|1.0.2|https://archive.org/download/YamaNX_Sertay/Pikmin%204%20-%20V1.0.2.zip|Swatalk
@@ -427,7 +427,7 @@ Pipistrello and the Cursed Yoyo|0100D1E01FB56000|1.6|https://archive.org/downloa
 PJ Masks Power Heroes Mighty Alliance|0100FE301A2B4000|1.0.1|https://archive.org/download/YamaNX_Sertay/PJ%20Masks%20Power%20Heroes%20Mighty%20Alliance%20-%20V1.0.1.zip|Swatalk
 Plants vs. Zombies™ Replanted|01008C50239BE000|1.1.0|https://archive.org/download/YamaNX_Sertay/Plants%20vs.%20Zombies%E2%84%A2%20Replanted%20-%20V1.1.0%20ve%201%20DLC.zip|Swatalk
 Poi Explorer Edition|01005EC0039E4000|1.0.1|https://archive.org/download/YamaNX_Sertay/Poi%20Explorer%20Edition%20-%20V1.0.1.zip|Swatalk
-Pokémon Legends Arceus|01001F5010DFA000|?|https://archive.org/download/YamaNX_Sertay/Pok%C3%A9mon%20Legends%20Arceus%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Pokémon Legends Arceus|01001F5010DFA000|1.1.1|https://archive.org/download/YamaNX_Sertay/Pok%C3%A9mon%20Legends%20Arceus%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Profesör Pikachu,Asım Yılmaz,pokemoncudostunuz,souh232,Ayşe Güngör,H@rami-6
 Pokémon Legends Z-A|0100F43008C44000|2.0.1|https://archive.org/download/YamaNX_Sertay/Pok%C3%A9mon%20Legends%20Z-A%20-%20V2.0.1%20ve%201%20DLC.zip|Swatalk
 Pokémon Let's Go, Eevee!|0100187003A36000|1.0.2|https://archive.org/download/YamaNX_Sertay/Pok%C3%A9mon%20Let%27s%20Go%2C%20Eevee%21%20-%20V1.0.2.zip|Swatalk
 Pokémon Let's Go, Pikachu!|010003F003A34000|1.0.2|https://archive.org/download/YamaNX_Sertay/Pok%C3%A9mon%20Let%27s%20Go%2C%20Pikachu%21%20-%20V1.0.2.zip|Swatalk
@@ -450,7 +450,7 @@ Ravenswatch|0100E6701DF4E000|1.11.0 + 8 DLCs|https://archive.org/download/YamaNX
 Ravva and the Cyclops Curse|0100CA2014A0A000|1.0.0|https://archive.org/download/YamaNX_Sertay/Ravva%20and%20the%20Cyclops%20Curse%20-%20V1.0.0.zip|Swatalk
 Ravva and the Phantom Library|0100F4D01CB04000|1.0.0|https://archive.org/download/YamaNX_Sertay/Ravva%20and%20the%20Phantom%20Library%20-%20V1.0.0.zip|Swatalk
 Rayman Legends - Definitive Edition|01005FF002E2A000|1.2|https://archive.org/download/YamaNX_Sertay/Rayman%20Legends%20-%20Definitive%20Edition%20-%20V1.2.zip|Swatalk
-Red Dead Redemption|01007820196A6000|?|https://archive.org/download/YamaNX_Sertay/Red%20Dead%20Redemption%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+Red Dead Redemption|01007820196A6000|1.0.4|https://archive.org/download/YamaNX_Sertay/Red%20Dead%20Redemption%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|emre_007
 Redeemer Enhanced Edition|01000D100DCF8000|1.2|https://archive.org/download/YamaNX_Sertay/Redeemer%20Enhanced%20Edition%20-%20V1.2.zip|Swatalk
 Resident Evil 0|010097000BC10000|?|https://archive.org/download/YamaNX_Sertay/Resident%20Evil%200%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Resident Evil 5|010018100CD46000|?|https://archive.org/download/YamaNX_Sertay/Resident%20Evil%205%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
@@ -491,7 +491,7 @@ Sniper Elite 3|010075A00BA14000|?|https://archive.org/download/YamaNX_Sertay/Sni
 Sniper Elite 4|010007B010FCC000|?|https://archive.org/download/YamaNX_Sertay/Sniper%20Elite%204%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Sniper Elite V2|0100BB000A3AA000|?|https://archive.org/download/YamaNX_Sertay/Sniper%20Elite%20V2%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Snipperclips|0100704000B3A000|1.1.0|https://archive.org/download/YamaNX_Sertay/Snipperclips%20-%20V1.1.0%20ve%201%20DLC.zip|Swatalk
-Snow Bros. Wonderland|0100A0A01D520000|?|https://archive.org/download/YamaNX_Sertay/Snow%20Bros.%20Wonderland%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Snow Bros Wonderland|0100A0A01D520000|1.0|https://archive.org/download/YamaNX_Sertay/Snow%20Bros.%20Wonderland%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Emre Port:Dede00
 Solar Ash|010083501AB36000|1.06.0|https://archive.org/download/YamaNX_Sertay/Solar%20Ash%20-%20V1.06.0.zip|Swatalk
 Soma|0100927023A34000|1.1.0|https://archive.org/download/YamaNX_Sertay/Soma%20-%20V1.1.0.zip|Swatalk
 Sonic Frontiers|01004AD014BF0000|?|https://archive.org/download/YamaNX_Sertay/Sonic%20Frontiers%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
@@ -509,16 +509,16 @@ SpongeBob SquarePants Battle for Bikini Bottom Rehydrated|010062800D39C000|1.0.5
 SpongeBob SquarePants The Cosmic Shake|01009FB0172F4000|1.0.6|https://archive.org/download/YamaNX_Sertay/SpongeBob%20SquarePants%20The%20Cosmic%20Shake%20-%20V1.0.6.zip|Swatalk
 SPY×ANYA Operation Memories|010089B01AB44000|1.0.1|https://archive.org/download/YamaNX_Sertay/SPY%C3%97ANYA%20Operation%20Memories%20-%20V1.0.1%20ve%206%20DLCs.zip|Swatalk
 Spyro Reignited Trilogy|010077B00E046000|1.0|https://archive.org/download/YamaNX_Sertay/Spyro%20Reignited%20Trilogy%20-%20V1.0.zip|Swatalk
-STALKER Shadow of Chornobyl|01004A001E32E000|?|https://archive.org/download/YamaNX_Sertay/STALKER%20Shadow%20of%20Chornobyl%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+STALKER Shadow of Chornobyl|01004A001E32E000|Belirtilmemiş|https://archive.org/download/YamaNX_Sertay/STALKER%20Shadow%20of%20Chornobyl%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Çeviri Takımı ve themanyax Port:yusuf722
 Star Ocean - The Second Story R|010065301A2E0000|1.1.0|https://archive.org/download/YamaNX_Sertay/Star%20Ocean%20-%20The%20Second%20Story%20R%20-%20V%201.1.0%20ve%205%20DLCs.zip|Swatalk
 Star Overdrive|010047E01EA24000|1.0.5|https://archive.org/download/YamaNX_Sertay/Star%20Overdrive%20-%20V1.0.5%20ve%203%20DLCs.zip|Swatalk
 Star Wars Jedi Knight II Jedi Outcast|0100BB500EACA000|?|https://archive.org/download/YamaNX_Sertay/Star%20Wars%20Jedi%20Knight%20II%20Jedi%20Outcast%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Star Wars Jedi Knight Jedi Academy|01008CA00FAE8000|?|https://archive.org/download/YamaNX_Sertay/Star%20Wars%20Jedi%20Knight%20Jedi%20Academy%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Star Wars Knights of the Old Republic|0100854015868000|?|https://archive.org/download/YamaNX_Sertay/Star%20Wars%20Knights%20of%20the%20Old%20Republic%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
-SteamWorldHeist II|010089C01E9CA000|?|https://archive.org/download/YamaNX_Sertay/SteamWorldHeist%20II%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+SteamWorldHeist II|010089C01E9CA000|1.0|https://archive.org/download/YamaNX_Sertay/SteamWorldHeist%20II%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Swatalk Port:Captainkid-tr
 Stick It to the Man|0100AD7003FF4000|1.0.1|https://archive.org/download/YamaNX_Sertay/Stick%20It%20to%20the%20Man%20-%20V1.0.1.zip|Swatalk
 STORY OF SEASONS Grand Bazaar|0100DAE01E4C8000|1.1.0|https://archive.org/download/YamaNX_Sertay/STORY%20OF%20SEASONS%20Grand%20Bazaar%20-%20V1.1.0%20ve%2011%20DLCs.zip|Swatalk
-Stray Gods|01000FA01AB30000|?|https://archive.org/download/YamaNX_Sertay/Stray%20Gods%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Sinnerclown
+Stray Gods The Roleplaying Musical|01000FA01AB30000|?|https://archive.org/download/YamaNX_Sertay/Stray%20Gods%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Swatalk ve Indra Port:CaptainKid-Tr
 Streets of Rogue|01008CD00C222000|1.6.0|https://archive.org/download/YamaNX_Sertay/Streets%20of%20Rogue%20-%20V1.6.0%20ve%201%20DLC.zip|Swatalk
 Submerged|0100EDA00D866000|?|https://archive.org/download/YamaNX_Sertay/Submerged%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Suika Game|0100800015926000|2.2.9|https://archive.org/download/YamaNX_Sertay/Suika%20Game%20-%20V2.2.9%20ve%2022%20DLCs.zip|Swatalk
@@ -532,8 +532,8 @@ Super Mario Bros. Wonder|010015100B514000|1.0.2|https://archive.org/download/Yam
 Super Mario Galaxy|010099C022B96000|1.2.0|https://archive.org/download/YamaNX_Sertay/Super%20Mario%20Galaxy%20-%20V1.2.0.zip|Swatalk
 Super Mario Galaxy 2|0100FD8022DAA000|1.2.0|https://archive.org/download/YamaNX_Sertay/Super%20Mario%20Galaxy%202%20-%20V1.2.0.zip|Swatalk
 Super Mario Maker™ 2|01009B90006DC000|3.0.3|https://archive.org/download/YamaNX_Sertay/Super%20Mario%20Maker%E2%84%A2%202%20-%20V%203.0.3.zip|Swatalk
-Super Mario Odyssey|0100000000010000|?|https://archive.org/download/YamaNX_Sertay/Super%20Mario%20Odyssey%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
-Super Mario Party|010036B0034E4000|?|https://archive.org/download/YamaNX_Sertay/Super%20Mario%20Party%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Super Mario Odyssey|0100000000010000|1.3.0|https://archive.org/download/YamaNX_Sertay/Super%20Mario%20Odyssey%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Profesör Pikachu ve Ayşe Güngör
+Super Mario Party|010036B0034E4000|1.1|https://archive.org/download/YamaNX_Sertay/Super%20Mario%20Party%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Dede00
 Super Mario Party Jamboree|0100965017338000|2.3.0|https://archive.org/download/YamaNX_Sertay/Super%20Mario%20Party%20Jamboree%20-%20V2.3.0.zip|Swatalk
 Super Mario RPG|0100BC0018138000|1.0.1|https://archive.org/download/YamaNX_Sertay/Super%20Mario%20RPG%20-%20V1.0.1.zip|Swatalk
 Super Mega Zero|0100492015D02000|1.0.1|https://archive.org/download/YamaNX_Sertay/Super%20Mega%20Zero%20-%20V1.0.1.zip|Swatalk
@@ -555,13 +555,13 @@ Teenage Mutant Ninja Turtles - Mutants Unleashed|010013001BD62000|1.0.3|https://
 Teenage Mutant Ninja Turtles Arcade Wrath of the Mutants|0100C7601CDAC000|?|https://archive.org/download/YamaNX_Sertay/Teenage%20Mutant%20Ninja%20Turtles%20Arcade%20Wrath%20of%20the%20Mutants%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Teenage Mutant Ninja Turtles Shredder's Revenge|0100FE701475A000|?|https://archive.org/download/YamaNX_Sertay/Teenage%20Mutant%20Ninja%20Turtles%20Shredder%27s%20Revenge%20%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Terminator 2D NO FATE|0100B51020B68000|1.0.3|https://archive.org/download/YamaNX_Sertay/Terminator%202D%20NO%20FATE%20-%20V1.0.3.zip|Swatalk
-Terra Memoria|0100D7301E6D8000|?|https://archive.org/download/YamaNX_Sertay/Terra%20Memoria%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+Terra Memoria Deluxe Edition|0100D7301E6D8000|196608|https://archive.org/download/YamaNX_Sertay/Terra%20Memoria%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Swatalk ve emre_007
 Tetris® Effect Connected|0100DE501433A000|2.0.2.1|https://archive.org/download/YamaNX_Sertay/Tetris%C2%AE%20Effect%20Connected%20-%20V2.0.2.1.zip|Swatalk
 Thank Goodness You're Here!|010053101ACB8000|1.6.1|https://archive.org/download/YamaNX_Sertay/Thank%20Goodness%20You%27re%20Here%21%20-%20V1.6.1.zip|Swatalk
 That Time I Got Reincarnated as a Slime ISEKAI Chronicles|01008BA01A3BE000|1.0.3|https://archive.org/download/YamaNX_Sertay/That%20Time%20I%20Got%20Reincarnated%20as%20a%20Slime%20ISEKAI%20Chronicles%20-%20V1.0.3%20ve%2010%20DLCs.zip|Swatalk
 The Bard's Tale ARPG Remastered and Resnarkled|0100CD500DDAE000|1.0.2|https://archive.org/download/YamaNX_Sertay/The%20Bard%27s%20Tale%20ARPG%20Remastered%20and%20Resnarkled%20-%20V1.0.2.zip|Swatalk
 The Cub|0100D6501D73C000|1.0.3|https://archive.org/download/YamaNX_Sertay/The%20Cub%20-%20V1.0.3.zip|Swatalk
-The Elder Scrolls V Skyrim|01000A10041EA000|?|https://archive.org/download/YamaNX_Sertay/The%20Elder%20Scrolls%20V%20Skyrim%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+The Elder Scrolls V Skyrim|01000A10041EA000|1.1.177.3285177|https://archive.org/download/YamaNX_Sertay/The%20Elder%20Scrolls%20V%20Skyrim%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|nucleusxx
 The Entropy Centre|0100DDD01ACAA000|?|https://archive.org/download/YamaNX_Sertay/The%20Entropy%20Centre%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 The Escapists 2|0100CA100489C000|1.0.0|https://archive.org/download/YamaNX_Sertay/The%20Escapists%202%20-%20V1.0.0%20ve%204%20DLCs.zip|Swatalk
 The Escapists Complete Edition|01001B700BA7C000|1.0.2|https://archive.org/download/YamaNX_Sertay/The%20Escapists%20Complete%20Edition%20-%20V1.0.2.zip|Swatalk
@@ -573,11 +573,11 @@ The Inner World|0100B0B00B318000|1.0.1|https://archive.org/download/YamaNX_Serta
 The Inner World - The Last Wind Monk|0100A9D00B31A000|1.0.0|https://archive.org/download/YamaNX_Sertay/The%20Inner%20World%20-%20The%20Last%20Wind%20Monk%20-%20V1.0.0.zip|Swatalk
 The Karate Kid Street Rumble|01008AF01E3E2000|1.1.6|https://archive.org/download/YamaNX_Sertay/The%20Karate%20Kid%20Street%20Rumble%20-%20V1.1.6.zip|Swatalk
 The Last Faith|0100C69018E4A000|1.5.12435.20.1|https://archive.org/download/YamaNX_Sertay/The%20Last%20Faith%20-%20V1.5.12435.20.1.zip|Swatalk
-The Legend of Zelda Breath of the Wild|01007EF00011E000|?|https://archive.org/download/YamaNX_Sertay/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+The Legend of Zelda Breath of the Wild|01007EF00011E000|1.8.2|https://archive.org/download/YamaNX_Sertay/Zelda%20Breath%20of%20the%20Wild%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Profesör Pikachu
 The Legend of Zelda Echoes of Wisdom|01008CF01BAAC000|1.1.0|https://archive.org/download/YamaNX_Sertay/The%20Legend%20of%20Zelda%20Echoes%20of%20Wisdom%20-%20V1.1.0.zip|Swatalk
 The Legend of Zelda Link's Awakening|01006BB00C6F0000|1.1.0|https://archive.org/download/YamaNX_Sertay/The%20Legend%20of%20Zelda%20Link%27s%20Awakening%20-%20V1.1.0.zip|Swatalk
 The Legend of Zelda Skyward Sword HD|01002DA013484000|1.0.1|https://archive.org/download/YamaNX_Sertay/The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD%20-%20V1.0.1.zip|Swatalk
-The Legend of Zelda Tears of the Kingdom|0100F2C0115B6000|?|https://archive.org/download/YamaNX_Sertay/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+The Legend of Zelda Tears of the Kingdom|0100F2C0115B6000|1.4.2|https://archive.org/download/YamaNX_Sertay/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Profesör Pikachu ve atessivas
 The LEGO® Movie 2 - Videogame|0100A4400BE74000|1.0.3|https://archive.org/download/YamaNX_Sertay/The%20LEGO%C2%AE%20Movie%202%20-%20Videogame%20-%20V1.0.3%20ve%202%20DLCs.zip|Swatalk
 The LEGO® NINJAGO® Movie Video Game|01000CE002072000|1.0.3|https://archive.org/download/YamaNX_Sertay/The%20LEGO%C2%AE%20NINJAGO%C2%AE%20Movie%20Video%20Game%20-%20V1.0.3.zip|Swatalk
 The Mageseeker A League of Legends Story™|0100375019B2E000|1.0.3|https://archive.org/download/YamaNX_Sertay/The%20Mageseeker%20A%20League%20of%20Legends%20Story%E2%84%A2%20-%20V1.0.3%20ve%205%20DLCs.zip|Swatalk
@@ -612,16 +612,16 @@ TRANSFORMERS BATTLEGROUNDS|01005E500E528000|1.02|https://archive.org/download/Ya
 TRANSFORMERS EARTHSPARK - Expedition|010005001A8CA000|1.0.5|https://archive.org/download/YamaNX_Sertay/TRANSFORMERS%20EARTHSPARK%20-%20Expedition%20-%20%20V1.0.5.zip|Swatalk
 TRANSFORMERS Galactic Trials|0100C12017BCA000|1.0.1|https://archive.org/download/YamaNX_Sertay/TRANSFORMERS%20Galactic%20Trials%20-%20V1.0.1.zip|Swatalk
 Transistor|0100BE500BEA2000|1.0.2|https://archive.org/download/YamaNX_Sertay/Transistor%20-%20V1.0.2.zip|Swatalk
-Trek to Yomi|0100D77019324000|?|https://archive.org/download/YamaNX_Sertay/Trek%20to%20Yomi%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
+Trek to Yomi|0100D77019324000|Base Versiyon|https://archive.org/download/YamaNX_Sertay/Trek%20to%20Yomi%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Selfettin Port:Captainkid-tr
 Trials of Mana|0100D7800E9E0000|1.1.1|https://archive.org/download/YamaNX_Sertay/Trials%20of%20Mana%20-%20V1.1.1%20ve%201%20DLC.zip|Swatalk
 Triangle Strategy|0100CC80140F8000|1.1.1|https://archive.org/download/YamaNX_Sertay/Triangle%20Strategy%20-%20V1.1.1.zip|Swatalk
 Trident's Tale|01009DF020FBA000|1.0.3|https://archive.org/download/YamaNX_Sertay/Trident%27s%20Tale%20-%20V1.0.3.zip|Swatalk
 Trine 1 Enchanted Edition|0100D9000A930000|?|https://archive.org/download/YamaNX_Sertay/Trine%201%20Enchanted%20Edition%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Trine 2 Complete Story|010064E00A932000|?|https://archive.org/download/YamaNX_Sertay/Trine%202%20Complete%20Story%20%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
 Trine 4|010055E00CA68000|?|https://archive.org/download/YamaNX_Sertay/Trine%204%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
-Troll & I|0100F78002040000|?|https://archive.org/download/YamaNX_Sertay/Troll%20%26%20I%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Troll & I|0100F78002040000|1.1.0|https://archive.org/download/YamaNX_Sertay/Troll%20%26%20I%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Davetsiz57
 Tropico 6|0100FBE0113CC000|?|https://archive.org/download/YamaNX_Sertay/Tropico%206%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Soner Çakır
-Turok 3 Shadow of Oblivion|010013D019CF4000|?|https://archive.org/download/YamaNX_Sertay/Turok%203%20Shadow%20of%20Oblivion%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+Turok 3 Shadow of Oblivion|010013D019CF4000|?|https://archive.org/download/YamaNX_Sertay/Turok%203%20Shadow%20of%20Oblivion%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|Sinnerclown ve emre_007
 Twilight Monk|0100D7C021496000|1.0.0|https://archive.org/download/YamaNX_Sertay/Twilight%20Monk%20-%20V1.0.0.zip|Swatalk
 Ultra Age|01006DD00FE16000|2.0.4|https://archive.org/download/YamaNX_Sertay/Ultra%20Age%20-%20V2.0.4%20ve%201%20DLCs.zip|Swatalk
 Ultros|01008AD01F682000|1.3.5|https://archive.org/download/YamaNX_Sertay/Ultros%20-%20V1.3.5.zip|Swatalk
@@ -668,3 +668,7 @@ SWORD ART ONLINE Alicization Lycoris|010034501225C000|3.0.1 + 3 DLCs|https://arc
 Tomodachi Life Living the Dream|010051F0207B2000|1.0.0|https://archive.org/download/YamaNX_Sertay/Tomodachi%20Life%20Living%20the%20Dream%20-%20V1.0.0.zip|Swatalk
 Sword Art Online Fatal Bullet Complete Edition|01005DF00DC26000|1.2.0|https://archive.org/download/YamaNX_Sertay/Sword%20Art%20Online%20Fatal%20Bullet%20Complete%20Edition%20-%20V1.2.0.zip|Swatalk
 Worse Than Death|010037500C4DE000|1.0.0|https://archive.org/download/YamaNX_Sertay/Worse%20Than%20Death%20-%20V1.0.0.zip|Swatalk
+Darksiders 3 - Türkçe Yama|0100F8F014190000|?|https://archive.org/download/YamaNX_Sertay/Darksiders%203%20-%20T%C3%BCrk%C3%A7e%20Yama.zip|?
+SnowRunner|0100FBD013AB6000|1.0.22|https://archive.org/download/YamaNX_Sertay/SnowRunner.zip|Swatalk Port: Profesör Pikachu
+Pokémon Brilliant Diamond|0100000011D90000|1.3.0|https://archive.org/download/YamaNX_Sertay/Pok%C3%A9mon%20Brilliant%20Diamond.zip|Swatalk
+Pokémon Shining Pearl|010018E011D92000|1.3.0|https://archive.org/download/YamaNX_Sertay/Pok%C3%A9mon%20Shining%20Pearl.zip|Swatalk
